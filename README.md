@@ -16,4 +16,6 @@ Let's collaborate in building an outcome based framework which you think will be
 
 To make this easy I have documented the first 4 levels. Check the repo for word file  called **outcome framework for masters in mpc** or you can click here 
 
+https://docs.google.com/document/d/1YCZxaSKvTIqyje_RGO4WUOYDfBSebjix7fQoTlQ3xIU/edit?usp=sharing (Comment on the google doc or you can contribute on Github too) 
+
 https://mastersinmpc.github.io/MPC-Framework/levelframework.html
