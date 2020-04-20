@@ -14,4 +14,5 @@ Think of it like an Martial Arts school but completely online.
 
 Let's collaborate in building an outcome based framework which you think will be cool for someone to work.
 
-To make this easy I have documented the first 4 levels. 
+To make this easy I have documented the first 4 levels. Check the repo for word file or you can click here 
+https://mastersinmpc.github.io/MPC-Framework/levelframework.html
