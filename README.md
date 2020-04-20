@@ -1,5 +1,5 @@
 # Master in MPC Framework Project 
-Building a new outcome based framework called Masters in MPC (Media, Product &amp; Community) for creators as an alternative to MBA. Website: www.mastersinmpc.com
+Building a new outcome based framework called Masters in MPC (Media, Product &amp; Community) for creators as an alternative to MBA. Website: www.mastersinmpc.com & newsletter: https://mastersinmpc.substack.com/
 
 MastersInMPC is an open project for creators to collaborate and build an outcome based framework for young talent to clearly understand how to go about building which can help them grow in career. 
 Think of it like an Martial Arts school but completely online. 
